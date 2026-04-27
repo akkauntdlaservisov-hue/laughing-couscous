@@ -3,3 +3,5 @@ huggingface_hub
 deep_translator
 ddgs
 io
+flask
+pyTelegramBotAPI
