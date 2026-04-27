@@ -1,0 +1,4 @@
+telebot
+huggingface_hub
+deep_translator
+ddgs
